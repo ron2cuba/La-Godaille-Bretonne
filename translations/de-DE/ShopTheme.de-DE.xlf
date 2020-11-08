@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/var/www/html/prestashop/PRS07/PRS070171/themes/Anklet/modules/ps_contactinfo/ps_contactinfo.tpl" source-language="de-DE" target-language="de-DE" datatype="plaintext">
+    <body>
+      <trans-unit id="c7a7395519f0547b6676cf02431dcbd0">
+        <source>[1]%phone%[/1]</source>
+        <target>[1]%phone%[/1]</target>
+        <note>Context:
+File: /var/www/html/prestashop/PRS07/PRS070171/themes/Anklet/modules/ps_contactinfo/ps_contactinfo.tpl:49</note>
+      </trans-unit>
+      <trans-unit id="bcb2603bd53059cc5b6aaee6f625c77a">
+        <source>[1]%fax%[/1]</source>
+        <target>[1]%fax%[/1]</target>
+        <note>Context:
+File: /var/www/html/prestashop/PRS07/PRS070171/themes/Anklet/modules/ps_contactinfo/ps_contactinfo.tpl:63</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
